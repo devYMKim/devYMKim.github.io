@@ -36,18 +36,18 @@ color_6: 4054b2
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
 slider_0: # 형식에 맞추어 항목 추가
 - background_url: images/cover_bg_3.jpeg
-  title: 안녕하세요. <br>반갑습니다!</br>
+  title: 初めまして！ <br>반갑습니다!</br>
 
 
 # slider type 1  (텍스트가 좌측 정렬된 슬라이더)
 slider_1: # 형식에 맞추어 항목 추가
 - background_url: images/img_bg_4.jpg
-  title: I am<br>AI Developer
+  title: I am<br>Fullstack Developer
   subtitle: >- 
     조금은 늦었지만<br>
     아무것도 몰랐지만<br>
     무작정 따라하며 성장해온<br>
-    초보 개발자 babycheetah입니다.
+    초보 개발자 ユミン입니다.
 
 
 # About
@@ -55,7 +55,7 @@ about_meta: About Me
 about_header: >- 
   "타자도 못치던 대학생"
 about_introduce: >-
-  "안녕하세요. 풀스택 개발자를 꿈꾸는 아기 개발자, 아기치타입니다."
+  "안녕하세요. 풀스택 개발자를 꿈꾸는 초보 개발자, ユミン입니다."
 about_content: >-
   설명설명
   서서설명 
@@ -68,10 +68,13 @@ about_services: # 형식에 맞추어 항목 추가
   name: App
 - icon: icon-code
   name: Python
-about_box_content: 괜찮은 문구 <br>박스 색바꾸는 yml파일에 추가 <br><br><br>야물파일로 변환 <strong>의뢰</strong>의뢰
+about_box_content: <strong>최선</strong> <br>박스 색바꾸는 yml파일에 추가 <br><br><br>야물파일로 변환 <strong>의뢰</strong>의뢰
+
+about_box_content_color: rgb(255,255,255)
+
 about_box_button:
-  link: #
-  name: sample
+  link: https://github.com/devYuMinKim/
+  name: 이 분야의 '장인'이 되겠습니다.
 
 
 # Tech  skill
@@ -260,7 +263,7 @@ contact_list:
   icon: icon-globe-outline
 - title: 주소
   icon: icon-map
-- title: +82 10 xxxx xxxx
+- title: +82 10 5696 3862
   icon: icon-phone
 - title: 웹 주소
   icon: icon-layers2
