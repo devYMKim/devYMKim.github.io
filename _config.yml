@@ -114,7 +114,7 @@ project_meta: My Work
 project_header: PROJECT
 project_introduce: <span>개인 프로젝트</span><span>팀 프로젝트</span><span>Business</span>
 project_load_more: 앞으로 더 많은 프로젝트가 추가될 예정입니다:)    # 더보기 내용
-project_load_more_url: #
+project_load_more_url: https://github.com/devYuMinKim
 
 project_my_name: 개인프로젝트
 
@@ -215,18 +215,16 @@ edu_list:
   subtitle: 고려대 인공지능학과 대학원 석사과정
   date: 20xx.01 - 현재
   content: 설명설명 설명글 
-- title: HANSUNG UNIVERSITY
-  subtitle: xx대학교 xx과 졸업
-  date: 20xx.03 - 20xx.02
-  content: 나에대한 간단한 설명글 
-- title: YEOUIDO HIGH SCHOOL
-  subtitle: xx고등학교
-  date: 20xx.03 - 20xx.02
+- title: YEUNGJIN UNIVERSITY
+  subtitle: 영진전문대학교 컴퓨터정보계열 재학
+  date: 2019.03 - 현재
+  content: 웹데이터베이스 전공 
+- title: CHUNG NAM SAMSUNG ACADEMY
+  subtitle: 충남삼성고등학교 IT
+  date: 2016.03 - 2019.02
   content: >-
-    설명글
-    설명글
-    설명글
-    설명글
+    IT, 국제인문 디플로마 수료 </br>
+    IT 편집부() 활동
 
 
 # Blog
